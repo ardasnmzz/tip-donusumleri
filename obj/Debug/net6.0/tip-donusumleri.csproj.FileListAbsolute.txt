@@ -1,0 +1,15 @@
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.deps.json
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.runtimeconfig.json
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.dll
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.pdb
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.AssemblyInfo.cs
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.dll
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/refint/tip-donusumleri.dll
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.pdb
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.genruntimeconfig.cache
+/Users/ardasonmez/Documents/GitHub/tip-donusumleri/obj/Debug/net6.0/ref/tip-donusumleri.dll
